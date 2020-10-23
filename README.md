@@ -17,6 +17,7 @@
 - An actor can be a user, another application, or even a seperate system!
 - A Use Case is split up into an input/action, the expected result of that interaction, and the failed response.
 - An example might be the following:
+
 INPUT/ACTION
 ```
 Send a reply to a text message
