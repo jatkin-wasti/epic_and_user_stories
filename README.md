@@ -7,7 +7,7 @@
 
 ## What is an Epic Story?
 - An Epic story is a large body of work that is much larger in scope, usually large enough to not be completed in a single sprint.
-- High level functional and non-functional requirements from a business user's perspective.
+- High level functional and non-functional (technical) requirements from a business user's perspective.
 - These are useful to cover the functionality of a product and estimating the time and budget required for these large scale features.
 - Can be used when discussing with stakeholders as it is more of an overview which will be easier to understand without a technical background.
 - Multiple teams may work on an Epic story at the same team, with each team focusing on a different set of user stories within that Epic.
@@ -36,4 +36,6 @@ The wrong message is sent to the right person
 ## How do these all fit together in an Agile environment using Scrums?
 - Organising work into Epics and User stories to be completed over one or many sprints can be a very useful way of creating your sprint backlog during a scrum.
 - Epics allow a team to have one large goal to work towards while focusing on the smaller user stories during the sprint.
-- 
+- User stories and Use Cases can help a client to communicate and design the functional and non-functional (technical) requirements.
+- Agile environments are all about rapid iteration, so when using scrums it makes perfect sense to break down a large requirement into smaller sections that can be completed in each sprint.
+Which is exactly what Epic and User stories facilitate.
