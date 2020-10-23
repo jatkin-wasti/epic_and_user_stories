@@ -6,10 +6,10 @@
 - Should be accompanied by functional acceptance criteria (minimum conditions that must be met).
 
 ## What is an Epic Story?
-- An Epic story is a large body of work that is much larger in scope, usually large enough to not be completed in a single sprint.
+- An Epic story is a large body of work that is much larger in scope, usually large enough to not be completable in a single sprint.
 - High level functional and non-functional (technical) requirements from a business user's perspective.
-- These are useful to cover the functionality of a product and estimating the time and budget required for these large scale features.
-- Can be used when discussing with stakeholders as it is more of an overview which will be easier to understand without a technical background.
+- These are useful to cover the functionality of a product and in estimating the time and budget required for these large scale features.
+- Can be used when discussing the project with stakeholders as it is more of an overview which will be easier to understand without a technical background.
 - Multiple teams may work on an Epic story at the same team, with each team focusing on a different set of user stories within that Epic.
 - Progress in an Epic can be measured in a Burndown Chart to display work done and work remaining.
 
